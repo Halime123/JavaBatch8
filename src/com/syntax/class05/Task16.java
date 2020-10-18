@@ -13,7 +13,7 @@ public class Task16 {
 		int final1=scan.nextInt();
 		int ava=(quiz+midterm+final1)/3;
 		System.out.println("print the"+ava);
-		char grade;
+		char grade='0';
 		
 		if (ava>=90) {
 			grade='A';

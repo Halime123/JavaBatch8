@@ -26,7 +26,7 @@ public class Logical36 {
 			
 		}
 		
-		System.out.println(output);
+		
 		
 		
 
