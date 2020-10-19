@@ -24,6 +24,7 @@ public class ForLoop {
 		for(int d=10; d>0; d-=2) {
 			System.out.println(d+"  ");
 		}
+		
 	}
 
 }
